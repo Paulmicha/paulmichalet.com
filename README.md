@@ -12,3 +12,9 @@ pnpm dev
 ```
 
 Visit [pcom.localhost:3000](http://pcom.localhost:3000)
+
+## Compile static site
+
+```sh
+pnpm build
+```
